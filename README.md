@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou [Guilherme Tamulis Navarro]! 👋  
 
-<!--
-**guilhermetamulis/GuilhermeTamulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Analista de Dados | Estudante de Análise e Desenvolvimento de Sistemas**  
 
-Here are some ideas to get you started:
+💻 **Tecnologias que utilizo:**  
+- **Análise de Dados**: SAS, Python (Pandas, NumPy), SQL, Excel.  
+- **Desenvolvimento**: JavaScript, HTML/CSS (em aprendizado).  
+- **Ferramentas**: Git, GitHub, Power BI (em aprendizado).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Formação:**  
+- Cursando Análise e Desenvolvimento de Sistemas - UNICSUL.  
+
+
+🔭 **Atualmente trabalhando em:**  
+- Projetos de análise de dados com SAS.  
+- Desenvolvimento de um portfólio de projetos em Python/SQL.  
+
+📫 **Como me encontrar:**  
+- LinkedIn: www.linkedin.com/in/guilherme-tamulis-navarro-836b5996 
+- E-mail: guilherme.ebt@gmail.com  
